@@ -1,0 +1,10 @@
+# Article intake folder — not committed to git
+intake/
+
+# Tracker uses absolute local paths
+.processed_articles.json
+
+# Python
+__pycache__/
+*.pyc
+.env
