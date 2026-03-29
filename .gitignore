@@ -8,3 +8,4 @@ intake/
 __pycache__/
 *.pyc
 .env
+personal-brand/*
